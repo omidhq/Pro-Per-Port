@@ -1,8 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  The 1st version of my Professional Personal Portfolio 
+  My Professional Personal Portfolio <br>
+  Version: 1.02
 </h1>
 Made with Gatsbyjs
+
+More details will be added soon!
 
 
 ## Read More about <a href="https://www.gatsbyjs.com"> _<img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="25" /> Gatsby_</a>
