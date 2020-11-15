@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  My Professional Personal Portfolio <br>
+  My Personal Portfolio <br>
   Version: 1.02
 </h1>
 Made with Gatsbyjs
